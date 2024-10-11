@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Genty';
+    src: url('GentyDemo-Regular.eot');
+    src: url('GentyDemo-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GentyDemo-Regular.woff2') format('woff2'),
+        url('GentyDemo-Regular.woff') format('woff'),
+        url('GentyDemo-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaW01-Roman';
+    src: url('HelveticaW01-Roman.eot');
+    src: url('HelveticaW01-Roman.eot?#iefix') format('embedded-opentype'),
+        url('HelveticaW01-Roman.woff2') format('woff2'),
+        url('HelveticaW01-Roman.woff') format('woff'),
+        url('HelveticaW01-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Alio Pro';
+    src: url('AlioProBlack.eot');
+    src: url('AlioProBlack.eot?#iefix') format('embedded-opentype'),
+        url('AlioProBlack.woff2') format('woff2'),
+        url('AlioProBlack.woff') format('woff'),
+        url('AlioProBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
